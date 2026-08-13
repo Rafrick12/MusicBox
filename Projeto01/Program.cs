@@ -8,7 +8,7 @@
 Dictionary<string, List<int>>bandasRegistradas = new Dictionary<string, List<int>>();
 bandasRegistradas.Add("Imagine Dragons", new List<int> { 8, 9, 10 });
 bandasRegistradas.Add("Raça Negra", new List<int> { });
-bandasRegistradas.Add("Rappa", new List<int> { 9, 9, 10 });
+bandasRegistradas.Add("Rappa", new List<int> { 9, 8, 10 });
 
 
 void ExibirLogo()
